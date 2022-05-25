@@ -1,4 +1,5 @@
 Python Basics 
+
 The "Programming Basics" course provides basic programming skills. This includes writing basic coding skills, working with a development environment (IDE), using variables and data, operators and expressions, working with the console (reading input and printing results), using conditional constructions (if, if-else) and loops (for, while, do-while).The course lasts 8 weeks.Training takes place in the form of lectures and exercises plus more than 100 homework assignments.The main topics of the course are:
 
 1. Python first steps in coding - working with Python and PyCharm,variables and data types, simple operations - work with text and numbers
